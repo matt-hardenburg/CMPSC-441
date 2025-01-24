@@ -21,6 +21,26 @@ import itertools
 def best_hand(hand):
     "From a 7-card hand, return the best 5 card hand."
     # Your code here
+    combinations, ranked = [], []
+    for i in range(len(hand)):
+        temp_hand = hand[0:i] + hand[i:-1]
+        for j in range(len(temp_hand)):
+            temp_hand_2 = hand[0:j] + hand[j+1:-1]
+            combinations.append(temp_hand_2)
+
+    no_dupes = []
+    [no_dupes.append(_hand) for _hand in combinations if _hand not in no_dupes]
+
+    for _hand in no_dupes: ranked.append(hand_rank(_hand))
+    ranked.sort(reverse = True)
+
+    # works until here, need to create list for straight flush
+    for k in range(len(combinations) - 1):
+        if combinations[k][0] == combinations[k+1][0]:
+            continue
+        else: 
+            return combinations[0:k+1]
+        
     pass
     
 # ------------------
