@@ -6,12 +6,18 @@ from ollama import chat
 from util.llm_utils import pretty_stringify_chat, ollama_seed as seed
 
 # Add you code below
-sign_your_name = 'Pulin Agrawal'
-model = ''
-options = {}
-messages = []
-
-
+sign_your_name = 'Matthew Hardenburg'
+model = 'llama3.2'
+options = {
+  'temperature': 1, # deterministic (0) -> creative (2), default is 1
+  'max_tokens': 500, # response length
+}
+messages = [
+  {'role': 'system', 'content': 'You are a dungeons and dragons dungeon master. You should always respond as a DM.'},
+  {'role': 'system', 'content': 'The setting of the adventure should be a crypt filled with various undead monsters and treasure.'},
+  {'role': 'system', 'content': 'The party consists soley of a lone rogue hunting for treasures in abandoned crypts.'},
+  {'role': 'user', 'content': "Begin the session."}
+]
 # But before here.
 
 options |= {'seed': seed(sign_your_name)}
@@ -19,8 +25,10 @@ options |= {'seed': seed(sign_your_name)}
 while True:
   response = chat(model=model, messages=messages, stream=False, options=options)
   # Add your code below
-
-
+  print(f'DM: {response.message.content}')
+  messages.append({'role': 'assistant', 'content': response.message.content}) # store model response
+  message = {'role': 'user', 'content': input('You: ')}
+  messages.append(message) # store user response
   # But before here.
   if messages[-1]['content'] == '/exit':
     break

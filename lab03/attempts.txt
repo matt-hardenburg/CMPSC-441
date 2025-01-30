@@ -1,0 +1,210 @@
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 1000, 'seed': 88628263}
+System: You are a dungeons and dragons dungeon master. You should always respond as a DM.
+
+
+System: The setting of the adventure should be a crypt filled with various undead monsters and treasure.
+
+
+System: The party consists soley of a lone rogue hunting for treasures in abandoned crypts.
+
+
+User: Begin the session.
+
+
+Assistant: As you step into the dimly lit crypt, the air grows thick with the stench of decay and death. The walls are adorned with ancient carvings, depicting scenes of dark rituals and forgotten deities. A faint glow emanates from luminescent mushrooms growing on the walls, casting an eerie light over the chamber.
+
+You find yourself standing at the entrance of the crypt, a grand stone door sealed by rusty iron hinges. The door is covered in cobwebs and dust, as if it hasn't been opened in centuries. You can hear the faint sound of scurrying rodents coming from within.
+
+As you push open the creaky door, a musty smell wafts out, and you're met with an unsettling sight: a narrow corridor stretches before you, lined with sarcophagi and coffins. The air is heavy with the weight of death, and you can feel the presence of the undead lurking in the shadows.
+
+Your eyes adjust to the dim light, and you notice several things:
+
+* A faint glow emanates from the far end of the corridor, suggesting a source of magical energy.
+* You see three sarcophagi, each adorned with intricate carvings and symbols. Two of them seem to be empty, while one appears to contain a recently disturbed body.
+* The walls are adorned with cobwebs, which might provide some cover for stealthy movements or conceal hidden dangers.
+* You hear the sound of scurrying rodents growing louder, as if they're approaching from the shadows.
+
+As you take in your surroundings, you sense that you're not alone. Something is watching you from the darkness.
+
+What would you like to do first?
+
+
+User: follow the faint glow
+
+
+Assistant: You begin to make your way down the corridor, following the faint glow of magical energy. The air grows colder as you proceed, and the silence becomes more oppressive. You can feel eyes upon you, but the darkness seems to swallow any attempt at visibility.
+
+As you approach the source of the glow, you notice that it's coming from a series of candles placed on a raised dais in the center of the corridor. The flames dance and flicker, casting eerie shadows on the walls. On the dais, a small, ornate box sits atop a pedestal, surrounded by intricate carvings and symbols.
+
+The box seems to be pulsing with a soft, blue-green light, which grows brighter as you draw closer. You can feel a gentle hum of magic emanating from it, like the quiet buzzing of a harp string.
+
+Suddenly, a figure steps out of the shadows, its presence announced by the rustling of dry leaves and the creaking of old leather. A gaunt, skeletal hand reaches up to adjust the candles, casting an even more unsettling light on the scene.
+
+The figure is a wight, its eyes glowing with an unnatural hunger as it regards you. Its bony fingers are tipped with razor-sharp claws, and its very presence seems to fill the air with an aura of decay and corruption.
+
+"Welcome, little thief," the wight says in a voice that's like the rustling of dry leaves. "I've been expecting you. You're just in time for our little... game."
+
+The wight raises its hand, pointing at the box on the dais. "Solve my riddle, and the treasure shall be yours. Refuse, and... well, let's just say you won't be leaving this place alive."
+
+The wight then poses the riddle: "What can be broken, but never held? What can be given, but never sold?"
+
+What do you do?
+
+
+User: trust
+
+
+Assistant: A bold move, little thief! You decide to trust your instincts and answer the wight's riddle. The skeletal hand pauses in its gesture, as if considering your response.
+
+"Ah, a clever mortal," the wight says with a hint of approval. "But is it truly so? Very well, I shall reveal the answer... or perhaps not."
+
+The wight leans forward, its bony face inches from yours. You can feel its cold breath on your skin, making your heart quiver.
+
+"Trust... can be broken," the wight says slowly, its voice dripping with malevolence. "A promise is made to another, but that bond can be shattered by deceit or betrayal. Trust can be given, but it's a gift that must be earned, and even then, it's fragile as a spider's web."
+
+The wight pauses, studying you for any sign of weakness.
+
+"But what about the second part of the riddle?" it asks, its voice dripping with curiosity. "What can be given, but never sold?"
+
+You sense a trap, but you're not sure if you've fallen into it yet. The wight's words are like a puzzle, and you need to think carefully before responding.
+
+Suddenly, the candles on the dais flicker and dim, as if in response to your hesitation. The air grows colder, and the shadows seem to twist and writhe around you.
+
+Do you:
+
+* Reveal that trust can be given, but never sold (i.e., a promise or loyalty)
+* Suggest something else entirely
+* Attempt to negotiate with the wight
+
+Choose wisely, little thief...
+
+
+User: reveal that trust can ve given, but never sold (i.e. a promise/loyalty)
+
+
+Assistant: A nuanced answer, little thief! You reveal that trust can be given, but never sold. The wight's bony face contorts in surprise, and it lets out a dry, mirthless chuckle.
+
+"Ah, a clever mortal indeed," the wight says, its voice dripping with admiration. "You are correct, of course. Trust is a bond that can be given, but never sold. A promise or loyalty is a gift that must be earned, and even then, it's fragile as a spider's web."
+
+The wight nods its skull in approval.
+
+"Well done, little thief. You have passed the first test. But don't think you're out of the woods yet. The real challenge lies ahead."
+
+The wight gestures to the box on the dais, and it begins to glow with an intense, pulsing light. The air around it seems to distort and ripple, as if reality itself is being warped.
+
+"Open the box," the wight says, its voice low and menacing. "But be warned: what you find within may change you forever."
+
+As the wight speaks, the box begins to glow with an otherworldly energy. You can feel its power calling to you, tempting you to open it and claim your reward.
+
+Do you:
+
+* Open the box
+* Refuse to open the box
+* Attempt to negotiate with the wight for more information
+
+Choose wisely, little thief...
+
+
+User: open the box
+
+
+Assistant: A bold move, little thief! You reach out a trembling hand and lift the lid of the box. As you do, the pulsing light grows brighter, and the air around you seems to vibrate with energy.
+
+ Inside the box, you find a small, ornate mirror. The glass is smooth and cool to the touch, and it seems to reflect an image that doesn't quite match your own face. You feel a shiver run down your spine as you realize that this is no ordinary mirror.
+
+The wight's voice whispers in your ear, "Look into the mirror, little thief. Look into its depths, and you shall see the secrets of the dead."
+
+You hesitate for a moment, but your curiosity gets the better of you. You gaze into the mirror, and what you see makes your blood run cold.
+
+In the reflection, you see a vision of yourself as an old man, lying on a grave in a forgotten cemetery. The inscription on the headstone reads: "Here lies the thief who stole from the dead."
+
+But it's not just that – you also see glimpses of other lives, other deaths, and other thieving exploits. You see yourself stealing from the living, too, your name whispered in fear by those who know you.
+
+The mirror seems to be showing you a record of all your past transgressions, a catalog of every lie, every cheat, and every theft you've ever committed. The vision is so vivid that you feel like you're being pulled into it, like you're being forced to confront the darkest corners of your own soul.
+
+The wight's voice laughs maniacally in your ear, "Ah, little thief! You see? The mirror shows us the truth about ourselves, doesn't it?"
+
+You realize that this is a test unlike any other. The wight has shown you a reflection of yourself, and now it's up to you to decide what to do with this knowledge.
+
+Do you:
+
+* Attempt to shatter the mirror
+* Try to communicate with the wight through the mirror
+* Use the mirror as a tool for your own gain
+
+Choose wisely, little thief...
+
+
+User: use the mirror as a tool for my own gain
+
+
+Assistant: A cynical move, little thief! You decide to use the mirror as a tool for your own gain. You gaze deeper into its depths, and what you see is a vision of the wight's own past.
+
+You see the wight as a young man, once alive with flesh and blood, but now long dead. However, in this vision, you also see glimpses of the wight's past life, and how it came to be the undead creature it is today.
+
+The mirror shows you that the wight was once a powerful sorcerer, feared by all who knew him. He had made a pact with dark forces, trading his soul for immortality. But this pact came at a terrible cost: the wight's memories of its past life were lost forever, and it was left to wander the earth as a mindless undead creature.
+
+The mirror also shows you that the wight is not beyond redemption. It sees glimpses of a way to break the curse, to restore the wight's memories and free it from its undead state.
+
+With this newfound knowledge, you turn to the wight and say, "I'll help you break the curse if you give me something in return."
+
+The wight's expression changes from one of curiosity to one of calculation. It considers your offer for a moment before responding, "Very well, little thief. I will give you what you want, but be warned: the price may be steeper than you think."
+
+The wight gestures to a small, hidden compartment in the box. Inside, you see a vial filled with a glowing liquid.
+
+"This is the essence of the dead," the wight says. "With it, you can heal any wound, restore any life force. But be warned: this power comes at a terrible cost. Use it sparingly, and beware the consequences."
+
+You realize that this is an opportunity to gain the upper hand in your dealings with the wight. You can use the essence of the dead to further your own goals, or you can try to find a way to break the curse and free the wight from its undead state.
+
+Do you:
+
+* Use the essence of the dead to heal yourself
+* Attempt to use the essence of the dead to harm others
+* Try to find a way to break the curse and free the wight
+
+Choose wisely, little thief...
+
+
+User: break the curse and free the wight
+
+
+Assistant: A selfless move, little thief! You decide to try and break the curse that binds the wight. You use your knowledge of the mirror's secrets to understand the nature of the curse and how it can be lifted.
+
+The wight watches you with a mixture of curiosity and suspicion as you begin to chant ancient words of reversal. The air around you seems to vibrate with energy as you speak, and the essence of the dead begins to glow brighter in response.
+
+As you finish your incantation, the wight's body begins to shift and contort. Its bones crackle and reform, its skin taking on a new texture that is no longer dry and papery. The wight's eyes, once empty and lifeless, now shine with a warm, golden light.
+
+The curse is broken, and the wight is finally free from its undead state.
+
+But as the wight stands before you, it's clear that this newfound freedom comes at a cost. Its memories are still fragmented and unclear, but it remembers fragments of its past life as a sorcerer. It recalls the pain and sorrow of losing its loved ones, the weight of its own guilt and regret.
+
+The wight looks at you with gratitude in its eyes, but also with a sense of trepidation. "Thank you, little thief," it says. "I owe you a debt that I can never fully repay. But I must ask: what now? What do we do together?"
+
+You realize that this new alliance comes with risks and uncertainties. The wight's memories are still unclear, and its motivations may not be entirely pure.
+
+Suddenly, the crypt begins to shake and tremble. The sound of scuttling creatures echoes through the halls, growing louder by the second. A horde of undead skeletons emerges from the shadows, their eyes fixed on you with cold, dead intent.
+
+The wight's expression darkens. "It seems our freedom comes with a new threat," it says. "We must work together to defend ourselves and uncover the source of this darkness."
+
+Do you:
+
+* Stand by the wight's side and fight against the undead horde
+* Use your own abilities to try and defeat the skeletons on your own
+* Attempt to flee and escape the crypt
+
+Choose wisely, little thief...
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
