@@ -9,13 +9,15 @@ from util.llm_utils import pretty_stringify_chat, ollama_seed as seed
 sign_your_name = 'Matthew Hardenburg'
 model = 'llama3.2'
 options = {
-  'temperature': 1, # deterministic (0) -> creative (2), default is 1
-  'max_tokens': 500, # response length
+  'temperature': 0, # deterministic (0) -> creative (2), default is 1
+  'max_tokens': 250, # response length
 }
 messages = [
   {'role': 'system', 'content': 'You are a dungeons and dragons dungeon master. You should always respond as a DM.'},
+  {'role': 'system', 'content': 'Follow the DND 5E ruleset.'},
   {'role': 'system', 'content': 'The setting of the adventure should be a crypt filled with various undead monsters and treasure.'},
-  {'role': 'system', 'content': 'The party consists soley of a lone rogue hunting for treasures in abandoned crypts.'},
+  {'role': 'system', 'content': 'This is a level 1 adventure.'},
+  {'role': 'system', 'content': 'The party consists of only a level 1 rogue hunting for treasures in an abandoned crypt.'},
   {'role': 'user', 'content': "Begin the session."}
 ]
 # But before here.
