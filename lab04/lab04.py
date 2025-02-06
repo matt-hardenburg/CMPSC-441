@@ -1,6 +1,8 @@
 from pathlib import Path
 import sys
 
+sign = 'Matthew Hardenburg'
+
 sys.path.append(str(Path(__file__).parents[1]))
 
 from util.llm_utils import TemplateChat
@@ -20,8 +22,13 @@ def run_console_chat(sign, **kwargs):
                 print('Ending match:', ending_match)
             break
 
-lab04_params = {}
+template_file='lab04/lab04_trader_chat.json'
+lab04_params = {
+    'template_file': template_file,
+    'end_regex': r'ORDER(.*)DONE'
+}
 
 if __name__ ==  '__main__':
     # run lab04.py to test your template interactively
-    pass
+    lab04_params['inventory'] = '[\'healing potion\', \'mana potion\']'
+    run_console_chat(sign, **lab04_params)
