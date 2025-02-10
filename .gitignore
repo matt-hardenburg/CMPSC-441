@@ -6,3 +6,7 @@
 
 #ignore pycache
 __pycache__/
+
+venv/
+.venv/
+requirements.txt
